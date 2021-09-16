@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+body{
+	background-size: cover;
+	background-image: url("https://images.pexels.com/photos/540522/pexels-photo-540522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	margin:0;
+	font-family:Arial;
+	background-position:absolute;
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+}
+
+h1{
+	margin-left:420px;
+}
+
+.box {
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 665px;
+  transform: translate(-50%, -50%);
+  width: 700px;
+  height: 800px;
+  padding: 70px 40px;
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 30px;
+}
+
+ .btn {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 5px;
+  width: 250px;
+  margin-left:180px;
+  color: white;
+  margin-top: -100px;
+  background-color: green;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.inpbox{
+	padding: 5px;
+	width: 183px;
+}
+
+.btn:hover {
+  background-color:#a36076;
+  color: white;
+}
