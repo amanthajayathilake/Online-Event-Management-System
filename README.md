@@ -1,4 +1,7 @@
 # Online-Event-Management-System
-Online event management system
+
+Backend - Java
+Frontend - html,css,javascript
 Add your MySQL Password and Run :)
+
 
